@@ -1,1 +1,0 @@
-2026-11-26 23:41:37,043 | ERROR | Ошибка обработки файла 'order.csv': Колонка 'total_amount' содержит нечисловые или пустые значения: Unable to parse string '717.9f9' at position 40
